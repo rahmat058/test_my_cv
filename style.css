@@ -1,0 +1,127 @@
+body{ 
+    background-color: #ddd; 
+    font-size: 16px;
+    color: black;
+    font-family: "Arial"; 
+}
+*{ 
+    padding: 0px; 
+	margin: 0px; 
+}
+.wrapper{ 
+    width: 1000px; 
+	min-height: auto; 
+	background-color: #fff; 
+	margin: 0 auto;
+	border: 2px solid black;
+   margin: 150px;
+   padding-bottom: 30px;	
+	
+}
+.top_header{ 
+    width: 100%; 
+	height: 140px; 
+	background-color: #fff; 
+	vertical-align: middle; 
+	margin-top: -140px;
+}
+.logotext{
+	line-height: 20px;
+   padding-left: 80px;
+   margin-top: 140px;
+   padding-top: 135px;
+}
+
+.top_header img{
+	float: right;
+	width: 17%;
+	height: 190px;
+	margin-right: 11px;
+	padding: 90px;
+	
+}
+
+.bottom_header{ 
+
+   padding: 222px;
+	padding-left: 80px;
+	line-height: 22px;
+	padding-bottom: 82px;
+}
+.information{
+	padding-left: 80px;
+	line-height: 23px;
+	padding-bottom: 82px;
+}
+
+.information,ul,li{
+	
+}
+.academic_qulify{
+	padding-left: 80px;
+	padding-bottom: 82px;
+	margin-right: 87px;
+}
+.training{
+	padding-left: 80px;
+	padding-bottom: 82px;
+}
+.skills{
+	padding-left: 80px;
+	padding-bottom: 82px;
+}
+
+.information ul li{
+	list-style:none;
+}
+ table,th, td{
+	 border: 2px solid black;
+	 border-collapse: collapse;
+	 background-color: #f1f1c1;
+}
+
+th, td {
+    padding: 5px;
+    text-align: left;
+}
+th{
+    text-align: center;
+}.
+thead{
+    text-align: left;
+}
+.skills,ul,li{
+	
+	list-style:none;
+}
+
+.footer_top{
+	padding-left: 80px;
+	padding-bottom: 150px;
+	line-height: 24px;
+}
+
+.footer_bottom{
+	padding-left: 80px;
+	line-height: 12px;
+}
+
+.information table tr td{
+	border:none;
+	background-color:#fff;
+}
+
+.information table{
+	border:none;
+}
+
+.skills table{
+	border:none;
+}
+
+.skills table tr td{
+	border:none;
+	background-color:#fff;
+}
+
+
